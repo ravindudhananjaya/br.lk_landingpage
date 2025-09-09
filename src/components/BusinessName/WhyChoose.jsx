@@ -6,7 +6,7 @@ import CompanyReg from "../../assets/company-reg.png";
 import BusinessFormation from "../../assets/business-formation.png";
 import Payment from "../../assets/payment-gateway.png";
 import MarketFocus from "../../assets/market-focus.png";
-import Domain from "../../assets/Global-banking.png";
+import Domain from "../../assets/global-banking.png";
 import Target from "../../assets/target-icon.png";
 // Card data
 const cardData = [

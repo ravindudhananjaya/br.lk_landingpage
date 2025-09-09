@@ -1,12 +1,12 @@
 import React from "react";
-import Hero1 from "../../assets/Testimonials/hero1.png";
-import Hero2 from "../../assets/Testimonials/hero2.png";
-import Hero3 from "../../assets/Testimonials/hero3.png";
-import Hero4 from "../../assets/Testimonials/hero4.png";
-import Hero5 from "../../assets/Testimonials/hero5.png";
-import Hero6 from "../../assets/Testimonials/hero6.png";
-import Hero7 from "../../assets/Testimonials/hero7.png";
-import Hero8 from "../../assets/Testimonials/hero8.png";
+import Hero1 from "../../assets/testimonials/hero1.png";
+import Hero2 from "../../assets/testimonials/hero2.png";
+import Hero3 from "../../assets/testimonials/hero3.png";
+import Hero4 from "../../assets/testimonials/hero4.png";
+import Hero5 from "../../assets/testimonials/hero5.png";
+import Hero6 from "../../assets/testimonials/hero6.png";
+import Hero7 from "../../assets/testimonials/hero7.png";
+import Hero8 from "../../assets/testimonials/hero8.png";
 
 const Hero = () => {
   return (
