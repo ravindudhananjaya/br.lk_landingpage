@@ -1,9 +1,9 @@
 import React, { useMemo } from "react";
 import TestimonialCard from "../Testimonials/TestimonialCard";
-import Video1 from '../../assets/Testimonials/video1.png'
-import Video2 from '../../assets/Testimonials/video2.png'
-import ReviewIcon from '../../assets/Testimonials/review.png'
-import PlayButton from '../../assets/Testimonials/playbutton.png'
+import Video1 from '../../assets/testimonials/video1.png'
+import Video2 from '../../assets/testimonials/video2.png'
+import ReviewIcon from '../../assets/testimonials/review.png'
+import PlayButton from '../../assets/testimonials/playbutton.png'
 import { normalizedReviews } from "../../data/reviews";
 
 

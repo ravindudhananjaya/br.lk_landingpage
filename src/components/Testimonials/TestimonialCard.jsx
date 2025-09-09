@@ -1,6 +1,6 @@
 import React from 'react';
-import Video1 from '../../assets/Testimonials/video1.png'
-import Video2 from '../../assets/Testimonials/video2.png'
+import Video1 from '../../assets/testimonials/video1.png'
+import Video2 from '../../assets/testimonials/video2.png'
 
 const TestimonialCard = ({
   name,
