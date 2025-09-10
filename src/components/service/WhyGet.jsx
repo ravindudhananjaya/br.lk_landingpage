@@ -1,8 +1,8 @@
 import React from "react";
-import ExpertIcon from "../../assets/services/expert.png";
-import FastIcon from "../../assets/services/fast.png";
-import DocumentIcon from "../../assets/services/document.png";
-import SecureIcon from "../../assets/services/secure.png";
+import ExpertIcon from "../../assets/Services/expert.png";
+import FastIcon from "../../assets/Services/fast.png";
+import DocumentIcon from "../../assets/Services/document.png";
+import SecureIcon from "../../assets/Services/secure.png";
 
 const WhyGet = () => {
   const servicesData = [

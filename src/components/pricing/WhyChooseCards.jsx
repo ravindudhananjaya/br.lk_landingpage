@@ -7,7 +7,7 @@ import BusinessFormation from "../../assets/business-formation.png";
 import Payment from "../../assets/payment-gateway.png";
 import Tax from "../../assets/tax.png";
 import Compliance from "../../assets/compliance.png";
-import Banking from "../../assets/global-banking.png";
+import Banking from "../../assets/Global-banking.png";
 // Card data
 const cardData = [
 
